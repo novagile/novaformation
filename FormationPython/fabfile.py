@@ -11,7 +11,7 @@ settings = {}
 def prod():
     "Set variables for mirror server"
     env.host_string = "novagile@doc.novapost.fr"
-    settings['doc_dir'] = '/home/novagile/www/doc_pt/formation-python'
+    settings['doc_dir'] = '/home/novagile/www/formation-python'
 
 
 
