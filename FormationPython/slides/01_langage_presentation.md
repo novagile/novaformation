@@ -12,7 +12,7 @@
 * Libre (Open-Source).
 * Syntaxe simple -> Facile à apprendre.
 * Développement d'applications rapides.
-* Ramasse-miete.
+* Ramasse-miettes.
 * Extensible.
 * Piles incluses.
 * Gestion des exceptions.
@@ -36,7 +36,7 @@ La syntaxe python est très simple, très concise et impose d'utiliser l'indenta
     !python
     if True:
         print("Condition is true")
-    
+
     print("Outside condition")
 
 ---
@@ -61,9 +61,9 @@ Python est un langage à typage fort dynamique.
 > Un langage est fortement typé si :
 
 >   1) La compilation ou l'exécution peuvent détecter des erreurs de typage. Si ces erreurs ne sont jamais reconnues, le langage est faiblement typé (c'est, par exemple, le cas de PHP).
-   
+
 >   2) Les conversions implicites de types sont formellement interdites. Si de telles conversions sont possibles, le langage est faiblement typé. Exemples répondant à ce critère : OCaml, Haskell.
-   
+
 <p class="cite">— <a href="http://fr.wikipedia.org/wiki/Typage_fort">Wikipedia</a></p>
 
 ---
@@ -78,7 +78,7 @@ Par exemple, le C est un langage typé **statiquement** :
 
     !c
     int i = 4;
-    
+
 Alors que PHP est un langage typé **dynamiquement** :
 
     !php
